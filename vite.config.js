@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react';
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [ react() ],
-  base: '/ra_1_online_store_page_class/'
+  base: '/ra_1.1/'
 });
